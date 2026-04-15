@@ -1,0 +1,10 @@
+artifact_location: file:///Users/joeygarascia/Desktop/Python/ML Project /Data/mlruns/753174555700701880/models/m-a475713bae86481e9b14940b95122038/artifacts
+creation_timestamp: 1774997528201
+experiment_id: '753174555700701880'
+last_updated_timestamp: 1774997531478
+model_id: m-a475713bae86481e9b14940b95122038
+model_type: null
+name: random_forest_model
+source_run_id: 64bfe254f5bc4b35a70bf156fcb2710a
+status: 2
+status_message: null

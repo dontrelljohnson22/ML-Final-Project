@@ -1,0 +1,16 @@
+creation_timestamp: 1775000403460
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1775000403460
+model_id: m-0790f7587cf44159b1ec41735bf43029
+name: Used_Car_PricingV2
+run_id: 6aa773fc9eca4276a560a8f0bc2372f7
+run_link: ''
+source: models:/m-0790f7587cf44159b1ec41735bf43029
+status: READY
+status_message: null
+storage_location: file:///Users/joeygarascia/Desktop/Python/ML Project /Data/mlruns/753174555700701880/models/m-0790f7587cf44159b1ec41735bf43029/artifacts
+user_id: null
+version: 1
+workspace: default

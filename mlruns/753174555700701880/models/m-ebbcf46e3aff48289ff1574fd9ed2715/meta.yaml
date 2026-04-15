@@ -1,0 +1,10 @@
+artifact_location: file:///Users/joeygarascia/Desktop/Python/ML Project /Data/mlruns/753174555700701880/models/m-ebbcf46e3aff48289ff1574fd9ed2715/artifacts
+creation_timestamp: 1776028377344
+experiment_id: '753174555700701880'
+last_updated_timestamp: 1776028380761
+model_id: m-ebbcf46e3aff48289ff1574fd9ed2715
+model_type: null
+name: gradient_boost_model
+source_run_id: c6f4a1cb7b7b47719dff9ce2deeb45d4
+status: 2
+status_message: null

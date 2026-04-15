@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/joeygarascia/Desktop/Python/ML Project /Data/mlruns/753174555700701880/5008b608389e413b8802b415c2feaf1e/artifacts
+end_time: 1776028509623
+entry_point_name: ''
+experiment_id: '753174555700701880'
+lifecycle_stage: active
+run_id: 5008b608389e413b8802b415c2feaf1e
+run_name: gradient_boosting_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776028500487
+status: 3
+tags: []
+user_id: joeygarascia

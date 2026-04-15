@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/joeygarascia/Desktop/Python/ML Project /Data/mlruns/753174555700701880/64bfe254f5bc4b35a70bf156fcb2710a/artifacts
+end_time: 1774997531481
+entry_point_name: ''
+experiment_id: '753174555700701880'
+lifecycle_stage: active
+run_id: 64bfe254f5bc4b35a70bf156fcb2710a
+run_name: honorable-bee-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774997527888
+status: 3
+tags: []
+user_id: joeygarascia
