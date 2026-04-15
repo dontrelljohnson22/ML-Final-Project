@@ -33,7 +33,7 @@ model, expected_columns, available_makes, available_models = load_model_and_temp
 
 # --- 2. Build the User Interface ---
 st.title("🚗 Used Car Price Estimator")
-st.write("Welcome to the MVP! Enter vehicle details below to get an instant, data-driven price estimate.")
+st.write("Welcome to our Final Project! Enter vehicle details below to get an instant, data-driven price estimate.")
 
 st.header("Vehicle Specifications")
 col1, col2 = st.columns(2)
